@@ -12,3 +12,20 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+target
+out
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+<<<<<<< HEAD
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+=======
+>>>>>>> master
