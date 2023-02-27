@@ -8,6 +8,7 @@ public class MyFirstProgram {
         double l = 5;
         area(5);
         System.out.println("test " + l + area(l));
+
     }
 
     public static void hello(String text) {
